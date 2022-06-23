@@ -1,0 +1,7 @@
+# Env
+ENV: dev
+
+# SQS QUEUES
+SQS_NEW_ORDER_ARN: arn:aws:sqs:us-east-1:350404484354:MyQueue
+
+SNS_NEW_ORDER_ARN: arn:aws:sns:us-east-1:350404484354:MyTopic
